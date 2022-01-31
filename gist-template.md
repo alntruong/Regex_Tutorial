@@ -35,7 +35,7 @@ Examples of Anchors are as follows:
 * `$` - matches a string that end with preceeding word before the character
 * Examples:
 ```
-^Oliver          matches any string starting with `Oliver`
+^Alan          matches any string starting with `Alan`
 Car$          matches any string ending with `Car`
 ^New Car$   matches exact string
 usedcar         matches any string that has the exact text `usedcar` in it
